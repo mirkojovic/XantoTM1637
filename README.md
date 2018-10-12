@@ -79,7 +79,7 @@ Symbol |  A  |  B  |  C  |  D  |  E  |  F  |  G  |  H
    \-  |  0  |  0  |  0  |  0  |  0  |  0  |  1  |  0
    °   |  1  |  1  |  0  |  0  |  0  |  1  |  1  |  0
    
-* "Digital tube" (like in the picture below) has only one place decimal point - between digits 2 and 3.
+* "Digital tube" (like in the picture above) has only one place decimal point - between digits 2 and 3.
 So, in order to show this decimal point just set H bit to 1 for digit 2.
  
 ## Class API
