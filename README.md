@@ -76,7 +76,7 @@ Symbol |  A  |  B  |  C  |  D  |  E  |  F  |  G  |  H
    E   |  1  |  0  |  0  |  1  |  1  |  1  |  1  |  0 
    F   |  1  |  0  |  0  |  0  |  1  |  1  |  1  |  0 
    off |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0 
-   -   |  0  |  0  |  0  |  0  |  0  |  0  |  1  |  0
+   \-  |  0  |  0  |  0  |  0  |  0  |  0  |  1  |  0
    °   |  1  |  1  |  0  |  0  |  0  |  1  |  1  |  0
    
 * "Digital tube" (like in the picture below) has only one place decimal point - between digits 2 and 3.
